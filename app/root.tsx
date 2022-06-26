@@ -10,7 +10,7 @@ import {
 
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
-  title: "New Remix App",
+  title: "🍌 Cabana",
   viewport: "width=device-width,initial-scale=1",
 });
 
@@ -21,7 +21,7 @@ export default function App() {
         <Meta />
         <Links />
       </head>
-      <body>
+      <body style={{ margin: 0 }}>
         <Outlet />
         <ScrollRestoration />
         <Scripts />
