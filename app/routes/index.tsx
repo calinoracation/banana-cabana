@@ -24,13 +24,16 @@ export default function Index() {
       <div style={{ 
         color: '#fff', 
         textAlign: 'center', 
-        fontSize: '4vw',
+        fontSize: '6vw',
         fontWeight: '600',
         margin: '0',
         padding: '1vw',
         textShadow: '2px 0 0 rgba(0, 0, 0, 0.2), -2px 0 0 rgba(0, 0, 0, 0.2), 0 2px 0 rgba(0, 0, 0, 0.2), 0 -2px 0 rgba(0, 0, 0, 0.2), 1px 1px rgba(0, 0, 0, 0.2), -1px -1px 0 rgba(0, 0, 0, 0.2), 1px -1px 0 rgba(0, 0, 0, 0.2), -1px 1px 0 rgba(0, 0, 0, 0.2)', 
-      }}>We create beautiful and comfortable lounge+ scenes for you and your guests to enjoy anywhere in Mission Bay. Let us do the work for you! 🍌🏖️✨</div>
+      }}>We create a beautiful and comfortable space for you and your guests to enjoy anywhere in Mission Bay. Let us do the work for you</div>
       </div>
+      <a href="https://www.instagram.com/bananacabanasandiego/">
+        <img alt="QR Code for Instagram profile bananacabanasandiego" src="/qrcode.jpg" style={{ borderRadius: 13, margin: '0 auto 30px', position: 'fixed', bottom: '0', left: '0', right: '0', width: '155px' }} />
+      </a>
     </div>
   );
 }
