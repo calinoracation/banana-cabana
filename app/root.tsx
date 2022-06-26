@@ -10,6 +10,7 @@ import {
 
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
+  description: "We create beautiful and comfortable lounge+ scenes for you and your guests to enjoy anywhere in Mission Bay. Let us do the work for you! 🍌🏖️✨",
   title: "🍌 Cabana",
   viewport: "width=device-width,initial-scale=1",
 });
